@@ -1,0 +1,17 @@
+.loading{
+    text-align: center;
+    max-width: 60rem;
+    width: 90%;
+    margin: 2rem auto;
+    animation: meals-appear 1s ease-out forwards;
+}
+
+.error{
+    color: red;
+    font-weight: bold;
+    text-align: center;
+    max-width: 60rem;
+    width: 90%;
+    margin: 2rem auto;
+    animation: meals-appear 1s ease-out forwards;
+}
